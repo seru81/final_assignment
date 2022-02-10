@@ -1,5 +1,4 @@
 /*排便の記録ができるAPIです。*/
-/*ユーザー登録の際にのみ*/
 const express = require("express")
 const app = express()
 app.use(express.json())
